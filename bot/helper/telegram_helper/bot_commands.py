@@ -20,7 +20,7 @@ class _BotCommands:
         self.HelpCommand = 'help9976138954'
         self.LogCommand = 'log3'
         self.SpeedCommand = 'speed33test'
-        self.CloneCommand = 'gdtot3'
+        self.CloneCommand = 'clone'
         self.CountCommand = 'count3'
         self.WatchCommand = 'watc33h'
         self.ZipWatchCommand = 'z33ipwatch'
